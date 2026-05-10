@@ -1,20 +1,29 @@
+# Hi there, I'm Ahmad Khan! 👋
+
+### 🚀 Tech Stack & Skills
+I am a passionate Developer focused on building automated solutions and high-fidelity user experiences.
+
+*   **Frontend:** HTML5, CSS3, JavaScript (Glassmorphism & Modern UI)
+*   **Mobile:** Flutter Framework
+*   **Backend & Automation:** Python (Selenium, Web Scraping)
+*   **Tools:** Git, Firebase, Supabase
+
+---
+
+### 🛠️ Professional Focus
+Currently working on optimizing logistics operations and building modern, physics-based gaming experiences. My expertise lies in:
+*   **Workflow Automation:** Creating custom tools for tracking and operational efficiency.
+*   **Data Extraction:** Developing robust lead generation and scraping engines.
+*   **UI/UX:** Designing sleek, neon-themed, and frosted-glass interfaces.
+
+---
+
+### 📈 GitHub Stats
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=persnalakios-cmd&show_icons=true&theme=radical)
+
+---
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <p><b>Made by Ahmad Khan</b></p>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
 </div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/ce00ddce-7275-47c3-8ddf-09d7755c681a
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
